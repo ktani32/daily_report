@@ -1,0 +1,15 @@
+domain: domain
+hipcat:
+  api_token: api_token
+  room_name: room_name
+  user_name: user_name
+  mention: mention
+confluence:
+  api_url: api_url
+  user: user
+  pass: pass
+  label_id: label_id
+jira:
+  api_url: api_url
+  user_name: user_name
+  server_id: server_id
